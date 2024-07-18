@@ -6,6 +6,11 @@ This project does basic calculations with only twonumber inputs. We first ask th
 
 ## Project bugs
 
+[embed] [/embed]
+
+
+
+
 1. Division by zero not possible in my vcode
   ``` python  
    time_vs_light = {}

@@ -9,7 +9,7 @@ Use `git status` to `list` all new or modified files that haven't yet been commi
 The background color is `#ffffff` for light mode and
 Although my code still does not have the exceptions to deal with negative number calculations and divsion by 0. multiple calcultaion
 This site was built using [GitHub Pages](https://pages.github.com/).
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://unsplash.com/photos/brown-tabby-cat-in-close-up-photography-s1puI2BWQzQ](https://github.com/HidayaPatel/calculator/blob/main/Screenshot%202024-07-18%20at%2005.07.33.png))
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/HidayaPatel/calculator/blob/main/Screenshot%202024-07-18%20at%2005.07.33.png)
 
 ![Uploading Screenshot 2024-07-18 at 05.07.33.png…]()
 
